@@ -1,12 +1,8 @@
 # SPRING_2022_lab2
 **json_navigate.py** - program for working with json
 ## Installation
-You have to install (json_navigate.py) and (film_coord)
+You have to install (json_navigate.py) and (all other files are required to create the server)
 Use the package manager pip to install folium and geopy
-```bash
-pip install folium
-pip install geopy
-```
 ## Usage
 ### json_navigate:
 ```bash
@@ -21,3 +17,5 @@ python3 json_navigate.py twitter1.json
 - **command_info** - to see all possible commands
 - **current_part** - to see current part of json
 - **stop_search** - to stop viewing json
+#### Example server
+**http://shaman4ik14.pythonanywhere.com/**
