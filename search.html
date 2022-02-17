@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Search Friend
+{% endblock %}
+
+{% block body %}
+<h1><div class='container'>Search friend</div></h1>
+<form action="/map" method="post">
+        <input type="text" name="title" id="title" class="container form-control" placeholder="Enter a Twitter account"><br>
+        <input type="submit" class="btn btn-success" value="Створити карту">
+</form>
+{% endblock %}
