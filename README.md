@@ -2,7 +2,6 @@
 **json_navigate.py** - program for working with json
 ## Installation
 You have to install (json_navigate.py) and (all other files are required to create the server)
-Use the package manager pip to install folium and geopy
 ## Usage
 ### json_navigate:
 ```bash
